@@ -66,6 +66,12 @@ Expect small portability/build adjustments on a modern compiler or operating sys
 
 Portability fixes, build cleanup, tests, documentation, and focused modernization work are welcome.
 
+## More Projects by Salekh
+
+- [C++ Projects](https://github.com/AlakhiarovSalekh/Cpp-Projects) — structured C++ learning and data structures.
+- [Banking System C++ CLI](https://github.com/AlakhiarovSalekh/BANKING-SYSTEM-CPP-CLI) — terminal banking application.
+- [Inventory Management Desktop App](https://github.com/AlakhiarovSalekh/Inventory-App) — Python/PyQt business desktop application.
+
 ## Author
 
 **Salekh Alakhiarov** · [GitHub](https://github.com/AlakhiarovSalekh)
