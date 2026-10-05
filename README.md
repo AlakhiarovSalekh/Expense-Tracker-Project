@@ -88,9 +88,9 @@ It is also good to point out that the updated program is capable of supporting b
    Base Expense Tracker with qt GUI
 *************************************
 
-For a much easier use of the program, a GUI built from Qt is currently being developed. The main goal is to build methods and routines that the will properly interface the front end Widget-based GUI to the back end code, which is the original cpp files for the console based expense tracker. Unfortunately, minor modifications were needed on the original base code. Hence, the 'qtGUI folder contains its own version of main_classes.cpp and auxillary.cpp. 
+For a much easier use of the program, a GUI built from Qt is currently being developed. The main goal is to build methods and routines that the will properly interface the front end Widget-based GUI to the back end code, which is the original cpp files for the console based expense tracker. Unfortunately, minor modifications were needed on the original base code. Hence, the 'qtgui folder contains its own version of main_classes.cpp and auxillary.cpp. 
 
-The source code is found on the folder 'qtGUI'. Note that this GUI  is built using Qt Creator. There are no exe available in the repository, but the code as it is can be compiled and build in Qt Creator. 
+The source code is found on the folder 'qtgui'. Note that this GUI  is built using Qt Creator. There are no exe available in the repository, but the code as it is can be compiled and build in Qt Creator. 
 
 
 
