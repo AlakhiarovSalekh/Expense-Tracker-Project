@@ -66,6 +66,8 @@ Expect small portability/build adjustments on a modern compiler or operating sys
 
 Portability fixes, build cleanup, tests, documentation, and focused modernization work are welcome.
 
+> If this project is useful to you, consider starring the repository. It helps you find it again and helps other developers discover the project.
+
 ## More Projects by Salekh
 
 - [C++ Projects](https://github.com/AlakhiarovSalekh/Cpp-Projects) — structured C++ learning and data structures.
