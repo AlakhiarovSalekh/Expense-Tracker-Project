@@ -1,4 +1,4 @@
-# Expense Tracker — C++
+# C++ Expense Tracker — Console, Credit Tracking & Qt GUI
 
 [![C++](https://img.shields.io/badge/C%2B%2B-Expense%20Tracker-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Qt](https://img.shields.io/badge/Qt-GUI-41CD52?logo=qt&logoColor=white)](https://www.qt.io/)
